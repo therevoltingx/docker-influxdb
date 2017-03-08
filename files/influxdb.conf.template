@@ -322,7 +322,7 @@
   ### tags following the template.  Multiple tags should be separated by commas and no spaces
   ### similar to the line protocol format.  There can be only one default template.
   templates = [
-    "agent.host.measurement*",
+    "agent.type.host.measurement*",
   ]
 
 ###
